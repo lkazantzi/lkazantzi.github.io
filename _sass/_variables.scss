@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #9592de;
+$link-color-hover           : #1d26c4;
+$link-color-visited         : #1d26c4;
+$masthead-link-color        : #1d26c4;
+$masthead-link-color-hover  : #1d26c4;
 
 
 /*
@@ -149,5 +149,5 @@ $susy: (
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
-$navicon-height             : 4px;
+$navicon-height             : 3px;
 $global-transition          : all 0.2s ease-in-out;

@@ -67,6 +67,12 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.skype %}
+        <li><i class="fab fa-fw fa-skype" aria-hidden="true" style="color:#48B6BB"></i> {{ author.skype }}</li>
+      {% endif %}
+      {% if author.inspire %}
+        <li><a href="http://inspirehep.net/authors/1659019"><i class="ai ai-inspire-square ai-fw" aria-hidden="true"></i> Inspire</a></li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}
