@@ -1,1 +1,1 @@
-
+The template of the websiste is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) and was forked from the [https://academicpages.github.io/](https://github.com/academicpages/academicpages.github.io) repository.
