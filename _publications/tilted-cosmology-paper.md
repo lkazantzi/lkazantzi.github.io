@@ -6,7 +6,7 @@ excerpt: 'Kerkyra Asvesta, Lavrentios Kazantzidis, Leandros Perivolaropoulos and
 date: 2022-02-02
 venue: 'Mon.Not.Roy.Astron.Soc.'
 ---
-<button style="background-color:#CC0033; color:white" onclick="location.href='http://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.103503?fbclid=IwAR2Ujoj0wcbvDjrZVA-WqVtayYqKjMiSRnTJmjKOh4VrVMi8YIIlQg4PUq4'" type="button"> DOI: 10.1093/mnras/stac922 </button>
+<button style="background-color:#CC0033; color:white" onclick="location.href='https://academic.oup.com/mnras/article-abstract/513/2/2394/6576785?redirectedFrom=fulltext&login=false'" type="button"> DOI: 10.1093/mnras/stac922 </button>
 <button style="background-color:#33CCCC; color:white" onclick="location.href='http://github.com/lkazantzi/tilted-cosmology'" type="button"> Code </button>
 
 
@@ -25,7 +25,7 @@ Cite
 If you use any of the above codes or the figures in a published work please cite the following paper:
 <br>*Observational Constraints on the Deceleration Parameter in a Tilted Universe*
 <br>Kerkyra Asvesta, Lavrentios Kazantzidis, Leandros Perivolaropoulos, and Christos Tsagas
-<br>[arxiv:2202.00962](http://arxiv.org/pdf/2202.00962.pdf).
+<br>[Mon.Not.Roy.Astron.Soc. 513 (2022) 2, 2394](http://academic.oup.com/mnras/article-abstract/513/2/2394/6576785?redirectedFrom=fulltext&login=false), [arxiv:2202.00962](http://arxiv.org/pdf/2202.00962.pdf).
 
 Any further questions/comments are welcome.
 
