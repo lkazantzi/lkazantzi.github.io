@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Redshift Space Distortion Cosmological Data Analysis"
+excerpt: ""
 collection: portfolio
+date: 2018-03-04
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The goal of this project is to perform a data analysis of various cosmological models (such as the standard cosmological scenario and a modified gravity scenario with an evolving Newton's cosntant) using a compilation of 64 Redshift Space Distortion cosmological data. For the constuction of the code Mathematica 10 was used.
+
+<button style="background-color:#33CCCC; color:white" onclick="location.href='http://github.com/lkazantzi/growth-tomography'" type="button"> Code </button>
