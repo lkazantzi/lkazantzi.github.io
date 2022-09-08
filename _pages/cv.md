@@ -28,7 +28,7 @@ redirect_from:
 <div class="container">
   <div class="row">
     <div class="col">
-      <p style="color:blue;">2021-Present</p>
+      <p style="color:blue;">2021-2022</p>
     </div>
     <div class="col">
       <b>Tilted Cosmology</b>
@@ -93,7 +93,7 @@ redirect_from:
       <p style="color:blue;">Programming</p>
     </div>
     <div class="col">
-      C & Wolfram Mathematica
+      C, Wolfram Mathematica & Python (Moderate Knowledge)
     </div>
   </div>
 </div>
@@ -104,7 +104,7 @@ redirect_from:
       <p style="color:blue;">Scientific Software</p>
     </div>
     <div class="col">
-      (MG)CAMB, (MG)COSMOMC, CLASS, MontePython, LaTeX
+      (MG)CAMB, (MG)COSMOMC, CLASS, MontePython, Microsoft Office & LaTeX
     </div>
   </div>
 </div>
