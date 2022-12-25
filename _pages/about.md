@@ -12,7 +12,7 @@ My name is Lavrentios Kazantzidis and Ι obtained my PhD in Cosmology and Astrop
 
 Perhaps the most well known inconsistency is the famous Hubble tension that arises in the case of the Hubble parameter, practically the expansion rate of our Universe, when comparing its indirect measurement from the Cosmic Microwave Background and Baryon Acoustic Oscillations, with the direct measurement from Type Ia supernovae. If these observational indications are indeed true then we have the first severe evidence that the Standard Cosmological Model is not the end of the road. Motivated by both the observational as well as the theoretical problems that the Standard Cosmological Model faces,  during my PhD studies I studied some viable alternative gravity theories pinpointing their observational predictions. 
 
-My main research interests include theoretical and astrophysical aspects of cosmology, dark energy, modified gravity theories (extensions of General Relavity), as well as cosmological data analysis. When I'm not doing physics I quite enjoy watching movies, reading books and programming. On this website, you will find further information about my publication record, my research as well as my portfolio. So start scrolling and have fun!
+My main research interests include theoretical and astrophysical aspects of cosmology, dark energy, modified gravity theories (extensions of General Relavity), as well as (cosmological) data analysis. When I'm not doing physics I quite enjoy watching movies, reading books and programming. On this website, you will find further information about my publication record, my research as well as my portfolio. So start scrolling and have fun!
 
 <style>
 * {
