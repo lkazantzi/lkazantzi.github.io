@@ -21,7 +21,6 @@ Late time gravitational transitions at low redshifts z<sub>t</sub><0.1 have been
 
 Instruction - CLASS Implementation
 ========
-You sent
 * Install the [CLASS](https://github.com/brinckmann/class_public) and [MontePython programs](https://github.com/brinckmann/montepython_public) as it is described in their official repositories.
 
 * Substitute the appropriate files with the corresponding ones inside the folder CLASS Implementations and run the programs as usual. For a step-by-step guide of the modifications implemented in CLASS, [click here](https://cosmology.physics.uoi.gr/wp-content/uploads/2021/07/Class_Implementation-1.pdf).
