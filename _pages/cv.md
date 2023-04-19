@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-<center><p style="font-size:30px;">Education</p></center>
+<center><p style="font-size:30px;">Professional Experience</p></center>
+* Greek Army, 2022-Present
+  - Signal Corps
+  - Fulfilling my military obligation
 * Doctor of Philosophy (Ph.D.) in Physics, 2017-2022
   - Thesis Title: *Cosmological Implications of Scalar Tensor Theories*
   - Department of Physics, University of Ioannina 
@@ -137,7 +140,7 @@ redirect_from:
 
 &nbsp;
 
-<center><p style="font-size:30px;">Experience</p></center>
+<center><p style="font-size:30px;">Teaching Experience and Scientific Projects</p></center>
 <center><p style="font-size:20px;">Teaching Assistance</p></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container">
