@@ -140,7 +140,7 @@ redirect_from:
 
 &nbsp;
 
-<center><p style="font-size:30px;">Teaching Experience and Scientific Projects</p></center>
+<center><p style="font-size:30px;">Teaching Experience and Scientific Expertise</p></center>
 <center><p style="font-size:20px;">Teaching Assistance</p></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container">
