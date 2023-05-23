@@ -19,7 +19,7 @@ redirect_from:
 
 &nbsp;
 
-<center><p style="font-size:30px;">Professional Experience</p></center>
+<center><p style="font-size:30px;">Education</p></center>
 * Doctor of Philosophy (Ph.D.) in Physics, October 2017-May 2022
   - Thesis Title: *Cosmological Implications of Scalar Tensor Theories*
   - Department of Physics, University of Ioannina 
