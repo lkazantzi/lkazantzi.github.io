@@ -76,14 +76,14 @@ redirect_from:
         </tr>
         <tr>
             <td>French</td>
-            <td colspan="2">Diplôme d’études en langue française</td>
+            <td colspan="2">Diplôme d’études en langue française - B1</td>
         </tr>
     </tbody>
 </table>
 
 &nbsp;
 
-<center><p style="font-size:30px;">Computer Skills</p></center>
+<center><p style="font-size:30px;">Technical Skills</p></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container">
   <div class="row">
@@ -102,7 +102,18 @@ redirect_from:
       <p style="color:blue;">Programming</p>
     </div>
     <div class="col">
-      C, Wolfram Mathematica & Python (Moderate Knowledge)
+      C, Wolfram Mathematica & Python
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p style="color:blue;">Soft Skills</p>
+    </div>
+    <div class="col">
+      Project Planning, Multitasking, Research, Analytical Thinking, Problem-solving & Computer Literacy
     </div>
   </div>
 </div>
@@ -113,7 +124,7 @@ redirect_from:
       <p style="color:blue;">Scientific Software</p>
     </div>
     <div class="col">
-      (MG)CAMB, (MG)COSMOMC, CLASS, MontePython, Microsoft Office & LaTeX
+      (MG)CAMB, (MG)COSMOMC, CLASS, MontePython, Microsoft Office & TeXmaker
     </div>
   </div>
 </div>
