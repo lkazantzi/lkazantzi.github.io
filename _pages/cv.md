@@ -15,7 +15,7 @@ redirect_from:
   - Fulfilling my military obligation
 * Teaching Assistant, October 2017-May 2022
   - Department of Physics, University of Ioannina
-  - Assisted with the organisation and implementation of three courses in total (Classical Electrodynamics I, Cosmology \& Gravity and Cosmology). My main duty was the grading of weekly assignments and reports of the students. 
+  - Assisted with the organisation and implementation of three courses in total (Classical Electrodynamics I, Cosmology & Gravity and Cosmology). My main duty was the grading of weekly assignments and reports of the students. 
 
 &nbsp;
 
