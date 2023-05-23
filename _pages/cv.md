@@ -9,18 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-
-<center><p style="font-size:30px;">Professional Experience</p></center>
-* Greek Army, 2022-Present
+<center><p style="font-size:30px;">Work Experience</p></center>
+* Greek Army, September 2022-Present
   - Signal Corps
   - Fulfilling my military obligation
-* Doctor of Philosophy (Ph.D.) in Physics, 2017-2022
+* Teaching Assistant, October 2017-May 2022
+  - Department of Physics, University of Ioannina
+  - Assisted with the organisation and implementation of three courses in total (Classical Electrodynamics I, Cosmology \& Gravity and Cosmology). My main duty was the grading of weekly assignments and reports of the students. 
+
+&nbsp;
+
+<center><p style="font-size:30px;">Professional Experience</p></center>
+* Doctor of Philosophy (Ph.D.) in Physics, October 2017-May 2022
   - Thesis Title: *Cosmological Implications of Scalar Tensor Theories*
   - Department of Physics, University of Ioannina 
-* Master of Science (M.Sc.) in Physics, 2015-2017
+* Master of Science (M.Sc.) in Physics, October 2015-October 2017
   - Graduated with an overall grade 8.44/10.00
   - Department of Physics, University of Ioannina 
-* Bachelor of Science (B.Sc.) in Physics, 2011-2015
+* Bachelor of Science (B.Sc.) in Physics, October 2011-June 2015
   - Graduated with an overall grade 7.47/10.00
   - Department of Physics, University of Ioannina
 
