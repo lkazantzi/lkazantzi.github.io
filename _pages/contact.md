@@ -12,8 +12,7 @@ author_profile: true
 <div class="container">
   <div class="row">
     <div class="col">
-     Niki Ltd <br>
-     Digital Engineering<br>
+     Niki Ltd Digital Engineering<br>
      GR-45500, Katsikas | Ioannina <br>
      Greece
     </div>
