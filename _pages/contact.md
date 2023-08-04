@@ -17,7 +17,7 @@ author_profile: true
      Greece
     </div>
     <div class="col">
-      <i class="fa fa-phone" style="font-size:18px;color:#48B6BB"></i> : (+30) 26510-85246<br>
+      <i class="fa fa-phone" style="font-size:18px;color:#48B6BB"></i> : (+30) 26510-85240<br>
      <i class="fa fa-envelope" style="font-size:17px;color:#48B6BB"></i> : <a href="mailto:l.c.kazantzidis@gmail.com">l.c.kazantzidis@gmail.com</a><br>
      <i class="fa fa-skype" style="font-size:18px;color:#48B6BB"></i> :  lawrence.kazantzidis
     </div>
