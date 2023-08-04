@@ -10,9 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <center><p style="font-size:30px;">Work Experience</p></center>
-* Greek Army, September 2022-Present
+* Junior Software Engineer, July 2023-Present
+  - Niki Ltd Digital Engineering
+* Greek Army, September 2022-June 2023
   - Signal Corps
-  - Fulfilling my military obligation
+  - Fulfilled my military obligation
 * Teaching Assistant, October 2017-May 2022
   - Department of Physics, University of Ioannina
   - Assisted with the organisation and implementation of three courses in total (Classical Electrodynamics I, Cosmology & Gravity and Cosmology). My main duty was the grading of weekly assignments and reports of the students. 
