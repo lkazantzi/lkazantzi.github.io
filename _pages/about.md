@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lavrentios Kazantzidis and Ι am a Theoretical Physicist with a PhD in Cosmology from the [Department of Physics](http://www.physics.uoi.gr/en) at the [University of Ioannina](https://www.uoi.gr/en/), under the supervision of Prof. [Leandros Perivolaropoulos](https://cosmology.physics.uoi.gr/lperivolaropoulos/). Currently working as a Junior Software Engineer at [Niki Ltd Digital Engineering](https://niki-mepe.gr/el/archiki-2/).
+My name is Lavrentios Kazantzidis and Ι am a Theoretical Physicist with a PhD in Cosmology from the [Department of Physics](http://www.physics.uoi.gr/en) at the [University of Ioannina](https://www.uoi.gr/en/), under the supervision of Prof. [Leandros Perivolaropoulos](https://cosmology.physics.uoi.gr/lperivolaropoulos/). Currently working as a Junior Software Engineer at [Niki Ltd Digital Engineering](https://niki-mepe.gr/).
 
 During my PhD studies I focused on the main (theoretical and observational) problems that plague &Lambda;CDM, the Standard Cosmological Model that describes our Universe extremely well. Analysing a variety of cosmological data, I studied a plethora of alternative models (modified theories of gravity) that may be supported by the data and identified their observational signatures based on the provided quality of fit. 
 
