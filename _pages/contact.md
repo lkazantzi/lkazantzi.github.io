@@ -12,14 +12,13 @@ author_profile: true
 <div class="container">
   <div class="row">
     <div class="col">
-     Office F2-116c<br> 
-     Department of Physics<br>
-     University of Ioannina<br>
-     GR-45110, Ioannina <br>
+     Niki Ltd <br>
+     Digital Engineering<br>
+     GR-45500, Katsikas | Ioannina <br>
      Greece
     </div>
     <div class="col">
-      <i class="fa fa-phone" style="font-size:18px;color:#48B6BB"></i> : (+30) 26510-08451<br>
+      <i class="fa fa-phone" style="font-size:18px;color:#48B6BB"></i> : (+30) 26510-85246<br>
      <i class="fa fa-envelope" style="font-size:17px;color:#48B6BB"></i> : <a href="mailto:l.c.kazantzidis@gmail.com">l.c.kazantzidis@gmail.com</a><br>
      <i class="fa fa-skype" style="font-size:18px;color:#48B6BB"></i> :  lawrence.kazantzidis
     </div>
