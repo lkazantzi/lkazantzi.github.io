@@ -12,6 +12,7 @@ redirect_from:
 <center><p style="font-size:30px;">Work Experience</p></center>
 * Junior Software Engineer, July 2023-Present
   - Niki Ltd Digital Engineering
+  - Working in the automotive industry implementing the Hardware-in-the-Loop (HiL) method of testing, in collaboration with interdisciplinary teams. In the HiL method of testing authentic signals from a controller are linked to a simulated test system, creating the illusion that the controller is interacting with an actual assembled product, using computer simulation tools and technologies. As a result, a large number of potential scenarios can be efficiently explored to test the controller without the need for expensive and time-consuming physical tests.
 * Greek Army, September 2022-June 2023
   - Signal Corps
   - Fulfilled my military obligation
