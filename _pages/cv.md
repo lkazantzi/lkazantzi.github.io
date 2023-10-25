@@ -134,6 +134,12 @@ redirect_from:
 
 &nbsp;
 
+<center><p style="font-size:30px;">Publications</p></center>
+13 research papers published in international refereed journals with more than 950 citations (h-index=11). <br>
+You can view the complete list of publications in my [inspireHEP profile](http://inspirehep.net/authors/1659019?ui-citation-summary=true) and my [publication record page](http://lkazantzi.github.io/publications/).
+
+&nbsp;
+
 <center><p style="font-size:30px;">Collaborations</p></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container">
