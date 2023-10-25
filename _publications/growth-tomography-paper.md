@@ -1,3 +1,4 @@
+13 research papers published in international refereed journals with more than 950 citations (h-index=11).
 ---
 title: "Evolution of the f&sigma;<sub>8</sub> Tension with Planck15/&Lambda;CDM Determination and Implications for Modified Gravity Theories"
 collection: publications
