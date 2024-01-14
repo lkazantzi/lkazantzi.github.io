@@ -86,7 +86,7 @@ redirect_from:
 
 &nbsp;
 
-<center><p style="font-size:30px;">Technical Skills</p></center>
+<center><p style="font-size:30px;">Skills</p></center>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
 <div class="container">
   <div class="row">
@@ -105,7 +105,18 @@ redirect_from:
       <p style="color:blue;">Programming</p>
     </div>
     <div class="col">
-      C, Wolfram Mathematica & Python
+      Python, C & Wolfram Mathematica
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <p style="color:blue;">Technical Skills & Tools</p>
+    </div>
+    <div class="col">
+      Hardware in the Loop, Object-Oriented Programming, Agile Methodologies, tortoiseSVN, Git, Jira, Jenkins, & Microsoft Office
     </div>
   </div>
 </div>
@@ -117,17 +128,6 @@ redirect_from:
     </div>
     <div class="col">
       Project Planning, Multitasking, Research, Analytical Thinking, Problem-solving & Computer Literacy
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col">
-      <p style="color:blue;">Scientific Software</p>
-    </div>
-    <div class="col">
-      (MG)CAMB, (MG)COSMOMC, CLASS, MontePython, Microsoft Office & TeXmaker
     </div>
   </div>
 </div>
