@@ -11,10 +11,11 @@ redirect_from:
 
 <center><p style="font-size:30px;">Work Experience</p></center>
 * Junior Software Engineer, July 2023-Present
-  - Niki Ltd Digital Engineering
-  - Working in the automotive industry, implementing the Hardware-in-the-Loop (HiL) method of testing.
-  - Collaborating with automotive manufacturers utilizing advanced technological tools and methodologies (like ControlDesk & ODIS) in order to fully automate vehicular component testing.
-  - Supporting customer communication, billing processes, and utilizing strategies to improve resource efficiency and mitigate risks.
+  * Niki Ltd Digital Engineering
+    - Working in the automotive industry, implementing the Hardware-in-the-Loop (HiL) method of testing.
+    - Collaborating with automotive manufacturers utilizing advanced technological tools and methodologies (like ControlDesk & ODIS) in order 
+      to fully automate vehicular component testing.
+    - Supporting customer communication, billing processes, and utilizing strategies to improve resource efficiency and mitigate risks.
 * Greek Army, September 2022-June 2023
   - Signal Corps
   - Fulfilled my military obligation
