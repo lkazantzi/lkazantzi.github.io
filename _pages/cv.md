@@ -32,8 +32,8 @@ support and managing project infrastructure to achieve optimal results.
     * Role: Assisted with the organization and implementation of a core course (Classical Electrodynamics I) and two advanced
 undergraduate elective courses (Cosmology & Gravity and Cosmology).
 &nbsp;
-    * Responsibilities:
-      − Graded weekly assignments and student reports. &nbsp;
+    * Responsibilities: <br>
+      − Graded weekly assignments and student reports. <br>
       − Assisted in developing course materials, including handouts and presentation slides, to support lecture content.
 
 &nbsp;
