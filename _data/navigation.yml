@@ -7,7 +7,7 @@ main:
     url: /portfolio/
 
   - title: "Portfolio"
-    url: /_portfolio1/
+    url: /portfolio1/
 
   - title: "Talks"
     url: /talks/      
