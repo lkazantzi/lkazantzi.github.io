@@ -13,16 +13,27 @@ redirect_from:
 * Junior Software Engineer, July 2023-Present
   * Niki Ltd Digital Engineering
     * Role: Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
+    &nbsp;
     * Accomplishments:
       - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
 3 months.
+      − Analyzed test execution data and created weekly reports to monitor progress.
+      − Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
+enhancing resource efficiency.
+      − Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
+support and managing project infrastructure to achieve optimal results.
     
 * Greek Army, September 2022-June 2023
   - Signal Corps
   - Fulfilled my military obligation
+ 
 * Teaching Assistant, October 2017-May 2022
-  - Department of Physics, University of Ioannina
-  - Assisted with the organisation and implementation of three courses in total (Classical Electrodynamics I, Cosmology & Gravity and Cosmology). My main duty was the grading of weekly assignments and reports of the students. 
+  * Department of Physics, University of Ioannina
+    * Role: Assisted with the organization and implementation of a core course (Classical Electrodynamics I) and two advanced
+undergraduate elective courses (Cosmology & Gravity and Cosmology).
+    * Responsibilities:
+      − Graded weekly assignments and student reports.
+      − Assisted in developing course materials, including handouts and presentation slides, to support lecture content.
 
 &nbsp;
 
