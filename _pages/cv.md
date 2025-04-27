@@ -15,11 +15,13 @@ redirect_from:
     * Role: Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
     &nbsp;
     * Accomplishments:
+    &nbsp;
       - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
 3 months.
-      − Analyzed test execution data and created weekly reports to monitor progress.
+&nbsp;
+      − Analyzed test execution data and created weekly reports to monitor progress. &nbsp;
       − Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
-enhancing resource efficiency.
+enhancing resource efficiency. &nbsp;
       − Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
 support and managing project infrastructure to achieve optimal results.
     
@@ -31,8 +33,9 @@ support and managing project infrastructure to achieve optimal results.
   * Department of Physics, University of Ioannina
     * Role: Assisted with the organization and implementation of a core course (Classical Electrodynamics I) and two advanced
 undergraduate elective courses (Cosmology & Gravity and Cosmology).
+&nbsp;
     * Responsibilities:
-      − Graded weekly assignments and student reports.
+      − Graded weekly assignments and student reports. &nbsp;
       − Assisted in developing course materials, including handouts and presentation slides, to support lecture content.
 
 &nbsp;
