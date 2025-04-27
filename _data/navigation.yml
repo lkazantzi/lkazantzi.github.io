@@ -6,8 +6,8 @@ main:
   - title: "Scientific Portfolio"
     url: /portfolio/
 
-  - title: "Scientific Portfolio"
-    url: /portfolio/
+  - title: "Portfolio"
+    url: /_portfolio1/
 
   - title: "Talks"
     url: /talks/      
