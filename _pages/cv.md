@@ -14,8 +14,7 @@ redirect_from:
   * Niki Ltd Digital Engineering
     * Role: Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
     &nbsp;
-    * Accomplishments: <br>
-&nbsp;
+    * Accomplishments:
       - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
 3 months. <br>
 &nbsp;
