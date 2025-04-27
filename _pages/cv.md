@@ -17,11 +17,13 @@ authentic signals from a controller in a test system. Creating the illusion that
 assembled product, various scenarios without expensive physical tests may be explored.
 &nbsp;
     * Responsibilities: <br>
-      − Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
+      * Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
 3 months. <br>
-      − Analyzed test execution data and created weekly reports to monitor progress. <br>
-      - Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
-enhancing resource efficiency.
+      * Analyzed test execution data and created weekly reports to monitor progress. <br>
+      * Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
+enhancing resource efficiency. <br>
+      Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
+support and managing project infrastructure to achieve optimal results.
     
 * Greek Army, September 2022-June 2023
   - Signal Corps
@@ -33,8 +35,8 @@ enhancing resource efficiency.
 undergraduate elective courses (Cosmology & Gravity and Cosmology).
 &nbsp;
     * Responsibilities: <br>
-      − Graded weekly assignments and student reports. <br>
-      − Assisted in developing course materials, including handouts and presentation slides, to support lecture content.
+      * Graded weekly assignments and student reports. <br>
+      * Assisted in developing course materials, including handouts and presentation slides, to support lecture content.
 
 &nbsp;
 
