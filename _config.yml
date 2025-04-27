@@ -233,7 +233,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Scientific portfolio
     values:
       layout: single
       author_profile: true
