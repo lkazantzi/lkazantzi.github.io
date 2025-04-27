@@ -15,12 +15,12 @@ redirect_from:
     * Role: Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
     &nbsp;
     * Accomplishments: <br>
-      - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
+      * Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
 3 months. <br>
-      − Analyzed test execution data and created weekly reports to monitor progress. <br>
-      − Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
+      * Analyzed test execution data and created weekly reports to monitor progress. <br>
+      * Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
 enhancing resource efficiency. <br>
-      − Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
+      * Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
 support and managing project infrastructure to achieve optimal results.
     
 * Greek Army, September 2022-June 2023
