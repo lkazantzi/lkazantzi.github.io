@@ -21,9 +21,7 @@ assembled product, various scenarios without expensive physical tests may be exp
 3 months. <br>
       − Analyzed test execution data and created weekly reports to monitor progress. <br>
       - Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
-enhancing resource efficiency. <br>
-      - Served as the primary contact for a small team of six, overseeing organization, optimizing budget allocation, providing
-support and managing project infrastructure to achieve optimal results.
+enhancing resource efficiency.
     
 * Greek Army, September 2022-June 2023
   - Signal Corps
