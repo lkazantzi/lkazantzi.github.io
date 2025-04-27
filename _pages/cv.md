@@ -12,8 +12,10 @@ redirect_from:
 <center><p style="font-size:30px;">Work Experience</p></center>
 * Junior Software Engineer, July 2023-Present
   * Niki Ltd Digital Engineering
-    * Role: 
-    Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
+    * Role: Working in the automotive industry implementing the Hardware-in-the-Loop method of testing, that involves simulating authentic signals from a controller in a test system. Creating the illusion that the controller is interacting with an actual assembled product, various scenarios without expensive physical tests may be explored.
+    * Accomplishments:
+      - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
+3 months.
     
 * Greek Army, September 2022-June 2023
   - Signal Corps
