@@ -17,7 +17,7 @@ redirect_from:
     * Accomplishments:
     &nbsp;
       - Developed automated API tasks using python scripts and orchestration tools, increasing process efficiency by 50% within
-3 months.
+3 months. <br>
 &nbsp;
       − Analyzed test execution data and created weekly reports to monitor progress. &nbsp;
       − Contributed to the complete reorganization of testing processes, achieving a 10% reduction in overall testing time,
