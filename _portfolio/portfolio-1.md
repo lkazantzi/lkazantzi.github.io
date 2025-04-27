@@ -1,4 +1,4 @@
-<center><p style="font-size:20px;">Scientific Portfolio</p></center>
+
 ---
 title: "Redshift Space Distortion Cosmological Data Analysis"
 excerpt: ""
