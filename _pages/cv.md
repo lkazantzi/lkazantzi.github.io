@@ -153,7 +153,7 @@ undergraduate elective courses (Cosmology & Gravity and Cosmology).
 &nbsp;
 
 <center><p style="font-size:30px;">Publications</p></center>
-13 research papers published in international refereed journals with more than 950 citations (h-index=11). <br>
+13 research papers published in international refereed journals with more than 1000 citations (h-index=13). <br>
 You can view the complete list of publications in my [inspireHEP profile](http://inspirehep.net/authors/1659019?ui-citation-summary=true) and my [publication record page](http://lkazantzi.github.io/publications/).
 
 &nbsp;
