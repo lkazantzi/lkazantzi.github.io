@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lavrentios Kazantzidis"
   avatar           : "profile.png"
-  bio              : "Junior Software Engineer @ NIKI Ltd Digital Engineering | Theoretical Physicist, PhD | Data Analyst Enthusiast"
+  bio              : "Software Engineer @ NIKI Ltd Digital Engineering | Theoretical Physicist, PhD | Data Analyst Enthusiast"
   location         : "Ioannina, Greece"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "lkazantzi"
-  skype            : "lawrence.kazantzidis"
+  skype            : 
   inspire          : "1659019"
   google_plus      :
   keybase          :
