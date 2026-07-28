@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lavrentios Kazantzidis and Ι am a Theoretical Physicist with a PhD in Cosmology from the [Department of Physics](http://www.physics.uoi.gr/en) at the [University of Ioannina](https://www.uoi.gr/en/), under the supervision of Prof. [Leandros Perivolaropoulos](https://cosmology.physics.uoi.gr/lperivolaropoulos/). Currently working as a Junior Software Engineer at [Niki Ltd Digital Engineering](https://niki-mepe.gr/).
+My name is Lavrentios Kazantzidis and Ι am a Theoretical Physicist with a PhD in Cosmology from the [Department of Physics](http://www.physics.uoi.gr/en) at the [University of Ioannina](https://www.uoi.gr/en/), under the supervision of Prof. [Leandros Perivolaropoulos](https://cosmology.physics.uoi.gr/lperivolaropoulos/). Currently working as a Software Engineer at [Niki Ltd Digital Engineering](https://niki-mepe.gr/).
 
 At [Niki Ltd Digital Engineering](https://niki-mepe.gr/), I am collaborating with automotive manufacturers utilizing advanced technological tools and methodologies to fully automate vehicular component testing, implementing the Hardware-in-the-Loop (HiL) method of testing. In particular, in the HiL method of testing, authentic signals from a controller are linked to a simulated test system, creating the illusion that the controller is interacting with a real assembled product by using computer simulation tools and technologies. As a result, a large number of potential scenarios can be efficiently explored and simulated to test the controller without the need for expensive and time-consuming physical tests.
 
